@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas<2
+pynetlogo
+SALib
+seaborn
+plotly
+nbformat
